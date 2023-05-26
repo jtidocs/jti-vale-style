@@ -1,0 +1,17 @@
+// vim: tw=0 ai et ts=2 sw=2
+= Changelog
+Ewan Edwards <eedwards@journaltech.com>
+:keepacl: https://keepachangelog.com/en/1.1.0/[Keep a Changelog^]
+:semantic: https://semver.org/spec/v2.0.0.html[Semantic Versioning^]
+:unreleased: https://github.com/jtidocs/jti-utils/compare/v1.0.0...HEAD[Unreleased]
+:1-0-0: https://github.com/jtidocs/jti-utils/releases/tag/v1.0.0[1.0.0]
+
+All notable changes to this project are documented in this file.
+
+The format is based on {keepacl}, and this project adheres to {semantic}.
+
+== {unreleased}
+
+== {1-0-0} - 2023-05-26
+
+- Initial release.

@@ -1,0 +1,53 @@
+extends: existence
+message: "Simplify the word '%s'."
+level: error
+ignorecase: true
+tokens:
+  - accomplish
+  - additionally
+  - additional
+  - alternatively
+  - alter
+  - appears
+  - approximately
+  - assist
+  - attempt
+  - automatically
+  - begin
+  - beneath
+  - breakthrough
+  - complicated
+  - concerning
+  - consult
+  - containing
+  - contain
+  - contains
+  - demonstrate
+  - determine
+  - difficult
+  - entire
+  - having
+  - highlights
+  - however
+  - illustrates
+  - immediately
+  - innovative
+  - locate
+  - major
+  - modification
+  - modifies
+  - modify
+  - necessary
+  - obtain
+  - operate
+  - perform
+  - pertains
+  - portion
+  - portions
+  - principle
+  - provide
+  - remainder
+  - robust
+  - upon
+  - whenever
+  - within
