@@ -50,8 +50,10 @@ exceptions:
   - Visual
   - Windows
   - eAttorney
+  - eCourt
   - eDMV
   - eDefender
+  - ePayIt
   - eProsector
   - eSeries
   - gRPC

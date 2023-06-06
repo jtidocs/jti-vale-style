@@ -1,4 +1,4 @@
-name: Build jti-vale-style release
+name: Build style release
 on: push
 permissions:
   contents: write
