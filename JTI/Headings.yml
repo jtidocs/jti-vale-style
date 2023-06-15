@@ -55,6 +55,7 @@ exceptions:
   - eDMV
   - eDefender
   - ePayIt
+  - eProbation
   - eProsecutor
   - eSeries
   - gRPC
