@@ -16,6 +16,7 @@ exceptions:
   - Cosmos
   - Cygwin
   - Docker
+  - DocViewer
   - Edition
   - Emmet
   - GitHub
