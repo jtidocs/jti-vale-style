@@ -8,8 +8,8 @@ indicators:
   - ':'
 exceptions:
   - Azure
-  - California
   - CLI
+  - California
   - Client
   - Code
   - Community
@@ -20,28 +20,28 @@ exceptions:
   - Emmet
   - GitHub
   - Host
-  - Integration
   - IP-DLC
+  - Integration
   - JCMS
   - Java
   - Kubernetes
   - Linux
   - MS-HIS
   - MSSQL
-  - MySQL
   - Marketplace
   - Maven
   - Microsoft
   - MongoDB
   - MySQL
+  - MySQL
   - Notice
   - Online
   - REPL
-  - Server
   - SNABase
-  - SNAServer
   - SNASA
   - SNASAs
+  - SNAServer
+  - Server
   - Studio
   - Tomcat
   - Traffic/Crim
@@ -54,6 +54,7 @@ exceptions:
   - eCourt
   - eDMV
   - eDefender
+  - eFile
   - ePayIt
   - eProbation
   - eProsecutor
