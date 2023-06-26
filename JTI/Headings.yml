@@ -15,8 +15,8 @@ exceptions:
   - Community
   - Cosmos
   - Cygwin
-  - Docker
   - DocViewer
+  - Docker
   - Edition
   - Emmet
   - GitHub
@@ -36,6 +36,7 @@ exceptions:
   - MySQL
   - MySQL
   - Notice
+  - OCR
   - Online
   - REPL
   - SNABase
