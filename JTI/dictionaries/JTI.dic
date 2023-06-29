@@ -1,4 +1,4 @@
-111
+113
 AKA
 API/S
 AnyConnect
@@ -54,6 +54,7 @@ autocomplete/S
 backend
 changelist/S
 chargeback/S
+checkbox/S
 clob/S
 codefendant/S
 combobox/S
@@ -104,6 +105,7 @@ tentative/S
 timeslot/S
 tooltip/S
 unconfigure/D
+unconsolidation
 unescape/D
 unstore/SD
 victimization/S
