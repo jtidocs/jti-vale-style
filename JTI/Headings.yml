@@ -45,6 +45,7 @@ exceptions:
   - SNASAs
   - SNAServer
   - Server
+  - SpreadsheetUtils
   - Studio
   - Tomcat
   - Traffic/Crim
