@@ -17,8 +17,8 @@ exceptions:
   - Cygwin
   - DocViewer
   - Docker
-  - Edition
   - EFSP
+  - Edition
   - Emmet
   - GitHub
   - Host
@@ -54,6 +54,7 @@ exceptions:
   - VS
   - Visual
   - Windows
+  - ZeroTrust
   - eAttorney
   - eCourt
   - eDMV
