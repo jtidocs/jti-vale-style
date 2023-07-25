@@ -18,6 +18,7 @@ exceptions:
   - DocViewer
   - Docker
   - Edition
+  - EFSP
   - Emmet
   - GitHub
   - Host
@@ -58,6 +59,7 @@ exceptions:
   - eDefender
   - eDocument
   - eFile
+  - eFiling
   - ePayIt
   - eProbation
   - eProsecutor
