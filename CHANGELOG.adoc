@@ -8,6 +8,7 @@ Ewan Edwards <eedwards@journaltech.com>
 :unreleased: {org}/{repo}/compare/v1.0.0\.\.\.HEAD[Unreleased]
 :1-0-0: {org}/{repo}/releases/tag/v1.0.0[1.0.0]
 :1-0-1: {org}/{repo}/compare/v1.0.0\.\.\.1.0.1[1.0.1]
+:1-0-2: {org}/{repo}/compare/v1.0.1\.\.\.1.0.2[1.0.2]
 
 All notable changes to this project are documented in this file.
 
@@ -15,9 +16,15 @@ The format is based on {keepacl}, and this project adheres to {semantic}.
 
 == {unreleased}
 
+== {1-0-2} - 2023-07-26
+
+- Add the FirstPerson style from the Google styles, but with exclusions for quotation marks.
+
+
 == {1-0-1} - 2023-05-30
 
 - Include `meta.json`.
+
 
 == {1-0-0} - 2023-05-26
 
