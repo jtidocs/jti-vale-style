@@ -54,6 +54,7 @@ ZeroTrust
 admin/S
 autocomplete/S
 backend
+boolean/S
 changelist/S
 chargeback/S
 checkbox/S
