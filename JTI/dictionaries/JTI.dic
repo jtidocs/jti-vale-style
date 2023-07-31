@@ -1,8 +1,9 @@
-115
+121
 AKA
 API/S
 AnyConnect
 Archiva
+Aspose
 CMS/S
 Changelist/S
 Chargeback/S
@@ -10,6 +11,7 @@ Config/S
 Cygwin
 DISA/S
 Datagram/S
+Datasource
 Def/S
 Drilldown
 Dropdown
@@ -81,6 +83,7 @@ eProsecutor
 eSeries
 executable/S
 financials
+iText
 index/UD
 interoperate/SG
 joinder/S
@@ -102,6 +105,7 @@ subentity/S
 subfolder/S
 subkey/S
 sublist/S
+subnet/SD
 subpanel/S
 subpoenable
 subquery/S
