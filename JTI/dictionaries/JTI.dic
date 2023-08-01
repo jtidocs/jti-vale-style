@@ -1,10 +1,11 @@
-140
+142
 AKA
 API/S
 AnyConnect
 Archiva
 Aspose
 Async
+Barcode/S
 CMS/S
 Changelist/S
 Chargeback/S
@@ -69,6 +70,7 @@ admin/S
 autocomplete/S
 backend
 backport/SGD
+barcode/S
 boolean/S
 changelist/S
 chargeback/S
@@ -98,11 +100,12 @@ enum/S
 executable/S
 financial/S
 fullscreen/D
+hardcode/SDG
 iText
 index/UD
 interoperate/SG
-iText
 joinder/S
+jQuery
 keepalive/S
 lookup/S
 mouseover
