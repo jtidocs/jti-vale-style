@@ -27,6 +27,7 @@ exceptions:
   - Integration
   - JCMS
   - Java
+  - JudgeView
   - Kubernetes
   - Linux
   - MS-HIS
@@ -38,6 +39,7 @@ exceptions:
   - MongoDB
   - MySQL
   - MySQL
+  - NSF
   - Notice
   - OCR
   - Online

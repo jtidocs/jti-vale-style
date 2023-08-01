@@ -1,4 +1,4 @@
-126
+127
 AKA
 API/S
 AnyConnect
@@ -29,6 +29,7 @@ LU/S
 Modoc
 Moneris
 NN/S
+NSF
 Netname
 Norte
 Orgunit/S
@@ -84,6 +85,7 @@ ePayIt
 eProbation
 eProsecutor
 eSeries
+enum/S
 executable/S
 financials
 iText
