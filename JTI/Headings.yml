@@ -45,6 +45,7 @@ exceptions:
   - OAuth
   - OCR
   - Online
+  - Portal
   - REPL
   - SNABase
   - SNASA
