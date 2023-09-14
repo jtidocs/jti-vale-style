@@ -1,4 +1,4 @@
-153
+154
 AKA
 API/S
 AnyConnect
@@ -12,10 +12,10 @@ Chargeback/S
 Config/S
 Cygwin
 DISA/S
+DMS
 Datagram/S
 Datasource
 Def/S
-DMS
 Drilldown
 Dropdown
 EFM
@@ -68,6 +68,7 @@ Uncheck/G
 Unconsolidate/DS
 Unescape/SDG
 VRN/S
+Vonage
 ZXing
 ZeroTrust
 admin/S
@@ -110,8 +111,8 @@ hardcode/SDG
 iText
 index/UD
 interoperate/SG
-joinder/S
 jQuery
+joinder/S
 keepalive/S
 lookup/S
 mouseover
