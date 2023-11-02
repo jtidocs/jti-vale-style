@@ -74,6 +74,7 @@ Vonage
 ZXing
 ZeroTrust
 admin/S
+analytic/S
 autocomplete/SN
 backend
 backport/SGD
@@ -105,6 +106,7 @@ ePayIt
 eProbation
 eProsecutor
 eSeries
+eSupervision
 enum/S
 executable/S
 financial/S
