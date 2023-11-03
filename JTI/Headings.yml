@@ -76,5 +76,6 @@ exceptions:
   - eProbation
   - eProsecutor
   - eSeries
+  - eSupervision
   - gRPC
   - macOS
