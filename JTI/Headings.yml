@@ -63,6 +63,7 @@ exceptions:
   - Windows
   - XREF
   - ZeroTrust
+  - Zip
   - eAccounting
   - eAttorney
   - eCourt
