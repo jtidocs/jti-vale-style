@@ -63,6 +63,7 @@ exceptions:
   - VS
   - Visual
   - Windows
+  - XREF
   - ZeroTrust
   - eAccounting
   - eAttorney
