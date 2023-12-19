@@ -30,6 +30,7 @@ exceptions:
   - JudgeView
   - Kubernetes
   - Linux
+  - LTS
   - MS-HIS
   - MSSQL
   - Marketplace
