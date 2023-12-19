@@ -4,8 +4,13 @@ link: 'https://developers.google.com/style/pronouns#personal-pronouns'
 level: warning
 ignorecase: false
 tokens:
-  - [Ww]e
-  - [Ww]e'(?:ve|re)
-  - [Oo]urs?
-  - [Uu]s
-  - [Ll]et's
+- We
+- we
+- We'(?:ve|re)
+- we'(?:ve|re)
+- Ours?
+- ours?
+- Us
+- us
+- Let's
+- let's
