@@ -16,6 +16,7 @@ exceptions:
   - Cygwin
   - DocViewer
   - Docker
+  - EFM
   - EFSP
   - Edition
   - Emmet
@@ -40,6 +41,7 @@ exceptions:
   - MongoDB
   - MySQL
   - MySQL
+  - NIEM
   - NSF
   - Notice
   - OAuth
