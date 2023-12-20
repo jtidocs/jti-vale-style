@@ -16,6 +16,7 @@ exceptions:
   - Cygwin
   - DocViewer
   - Docker
+  - Drupal
   - EFM
   - EFSP
   - Edition
@@ -49,6 +50,7 @@ exceptions:
   - Online
   - Portal
   - REPL
+  - SMS
   - SNABase
   - SNASA
   - SNASAs
@@ -60,6 +62,7 @@ exceptions:
   - Traffic/Crim
   - TypeScript
   - UI
+  - UX
   - URLs
   - VS
   - Visual
