@@ -31,10 +31,11 @@ exceptions:
   - Java
   - JudgeView
   - Kubernetes
-  - Linux
   - LTS
+  - Linux
   - MS-HIS
   - MSSQL
+  - MVC
   - Marketplace
   - Maven
   - Microsoft
@@ -48,13 +49,16 @@ exceptions:
   - OAuth
   - OCR
   - Online
+  - PNL
   - Portal
   - REPL
+  - ROA
   - SMS
   - SNABase
   - SNASA
   - SNASAs
   - SNAServer
+  - SSRS
   - Server
   - SpreadsheetUtils
   - Studio
@@ -62,8 +66,8 @@ exceptions:
   - Traffic/Crim
   - TypeScript
   - UI
-  - UX
   - URLs
+  - UX
   - VS
   - Visual
   - Windows
