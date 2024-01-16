@@ -29,6 +29,7 @@ exceptions:
   - Integration
   - JBSIS
   - JCMS
+  - JDA
   - Java
   - JudgeView
   - Kubernetes
