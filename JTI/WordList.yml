@@ -18,7 +18,7 @@ swap:
   '[\.]+apk': APK
   '3\-D': 3D
   'Google (?:I\-O|IO)': Google I/O
-  'tap (?:&|and) hold': touch & hold
+  'tap (?:&|and) hold': touch and hold
   'un(?:check|select)': clear
   above: preceding
   account name: username
@@ -29,7 +29,7 @@ swap:
   Android device: Android-powered device
   android: Android
   API explorer: APIs Explorer
-  application: app
+  (?<![Cc]ivil|[Cc]riminal|[Yy]outh|[Jj]uvenile) application: app
   approx\.: approximately
   authN: authentication
   authZ: authorization
