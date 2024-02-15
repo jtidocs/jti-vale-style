@@ -27,6 +27,8 @@ exceptions:
   - Host
   - IP-DLC
   - Integration
+  - InterfaceTracking
+  - InterfaceTrackingDetail
   - JBSIS
   - JCMS
   - JDA
