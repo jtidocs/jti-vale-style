@@ -29,7 +29,7 @@ swap:
   Android device: Android-powered device
   android: Android
   API explorer: APIs Explorer
-  (?<![Cc]ivil|[Cc]riminal|[Yy]outh|[Jj]uvenile) application: app
+  (?<![Cc]ivil|[Cc]riminal|[Ii]nterlocutory|[Jj]uvenile|[Oo]riginating|[Yy]outh) application: app
   approx\.: approximately
   authN: authentication
   authZ: authorization
