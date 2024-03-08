@@ -17,13 +17,17 @@ exceptions:
   - DMS
   - DocViewer
   - Docker
+  - Document
+  - Download
   - Drupal
   - EFM
   - EFSP
   - Edition
   - Emmet
+  - Folder
   - FormTool
   - GitHub
+  - Header
   - Host
   - IP-DLC
   - Integration
@@ -37,6 +41,8 @@ exceptions:
   - Kubernetes
   - LTS
   - Linux
+  - List
+  - Lookup
   - MS-HIS
   - MSSQL
   - MVC
@@ -75,6 +81,7 @@ exceptions:
   - UX
   - VOCA
   - VS
+  - View
   - Visual
   - Windows
   - XREF
