@@ -1,0 +1,13 @@
+message: "Macro '%s' left in text"
+extends: existence
+level: error
+nonword: true
+tokens:
+  - 'btn:\['
+  - 'image:[^[]+\['
+  - 'kbd:\['
+  - 'link:[^[]+\['
+  - 'menu:[^[]+\['
+  - 'xref:[^[]+\['
+  - 'ui:[^[]+\['
+

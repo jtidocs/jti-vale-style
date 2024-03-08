@@ -18,7 +18,7 @@ swap:
   '[\.]+apk': APK
   '3\-D': 3D
   'Google (?:I\-O|IO)': Google I/O
-  'tap (?:&|and) hold': touch & hold
+  'tap (?:&|and) hold': touch and hold
   'un(?:check|select)': clear
   above: preceding
   account name: username
@@ -29,7 +29,7 @@ swap:
   Android device: Android-powered device
   android: Android
   API explorer: APIs Explorer
-  application: app
+  (?<![Cc]ivil|[Cc]riminal|[Ii]nterlocutory|[Jj]uvenile|[Oo]riginating|[Yy]outh) application: app
   approx\.: approximately
   authN: authentication
   authZ: authorization
@@ -57,7 +57,6 @@ swap:
   grayed-out: unavailable
   HTTPs: HTTPS
   in order to: to
-  ingest: import|load
   k8s: Kubernetes
   long press: touch & hold
   network IP address: internal IP address

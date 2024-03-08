@@ -4,8 +4,6 @@ link: 'https://developers.google.com/style/capitalization#capitalization-in-titl
 level: warning
 scope: heading
 match: $sentence
-indicators:
-  - ':'
 exceptions:
   - API
   - Azure
@@ -16,24 +14,38 @@ exceptions:
   - Community
   - Cosmos
   - Cygwin
+  - DMS
   - DocViewer
   - Docker
+  - Document
+  - Download
+  - Drupal
+  - EFM
   - EFSP
   - Edition
   - Emmet
+  - Folder
   - FormTool
   - GitHub
+  - Header
   - Host
   - IP-DLC
   - Integration
+  - InterfaceTracking
+  - InterfaceTrackingDetail
   - JBSIS
   - JCMS
+  - JDA
   - Java
   - JudgeView
   - Kubernetes
+  - LTS
   - Linux
+  - List
+  - Lookup
   - MS-HIS
   - MSSQL
+  - MVC
   - Marketplace
   - Maven
   - Microsoft
@@ -41,17 +53,22 @@ exceptions:
   - MongoDB
   - MySQL
   - MySQL
+  - NIEM
   - NSF
   - Notice
   - OAuth
   - OCR
   - Online
+  - PNL
   - Portal
   - REPL
+  - ROA
+  - SMS
   - SNABase
   - SNASA
   - SNASAs
   - SNAServer
+  - SSRS
   - Server
   - SpreadsheetUtils
   - Studio
@@ -59,11 +76,17 @@ exceptions:
   - Traffic/Crim
   - TypeScript
   - UI
+  - URL
   - URLs
+  - UX
+  - VOCA
   - VS
+  - View
   - Visual
   - Windows
+  - XREF
   - ZeroTrust
+  - Zip
   - eAccounting
   - eAttorney
   - eCourt
@@ -76,5 +99,6 @@ exceptions:
   - eProbation
   - eProsecutor
   - eSeries
+  - eSupervision
   - gRPC
   - macOS
