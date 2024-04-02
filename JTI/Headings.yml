@@ -59,6 +59,7 @@ exceptions:
   - OAuth
   - OCR
   - Online
+  - OrgUnit
   - PNL
   - Portal
   - REPL
