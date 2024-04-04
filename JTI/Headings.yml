@@ -5,6 +5,8 @@ level: warning
 scope: heading
 match: $sentence
 exceptions:
+  - AI
+  - AI-assisted
   - API
   - Azure
   - CLI
