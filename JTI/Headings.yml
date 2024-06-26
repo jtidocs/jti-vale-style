@@ -10,6 +10,7 @@ exceptions:
   - API
   - Azure
   - CLI
+  - CSS
   - California
   - Client
   - Code
@@ -88,9 +89,9 @@ exceptions:
   - Visual
   - Windows
   - XREF
+  - ZIP
   - ZeroTrust
   - Zip
-  - ZIP
   - eAccounting
   - eAttorney
   - eCourt
