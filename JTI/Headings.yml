@@ -8,6 +8,7 @@ exceptions:
   - AI
   - AI-assisted
   - API
+  - Axon
   - Azure
   - CLI
   - CSS
@@ -27,10 +28,12 @@ exceptions:
   - EFSP
   - Edition
   - Emmet
+  - Evidence
   - Expand
   - Folder
   - FormTool
   - GitHub
+  - Guide
   - Header
   - Host
   - IP-DLC
@@ -84,6 +87,7 @@ exceptions:
   - URL
   - URLs
   - UX
+  - User
   - VOCA
   - VS
   - View
