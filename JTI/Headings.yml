@@ -44,6 +44,7 @@ exceptions:
   - JBSIS
   - JCMS
   - JDA
+  - JTI
   - Java
   - JudgeView
   - Kubernetes
