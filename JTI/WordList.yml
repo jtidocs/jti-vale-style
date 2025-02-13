@@ -45,6 +45,8 @@ swap:
   content type: media type
   curated roles: predefined roles
   data are: data is
+  data shepherd: DataShepherd
+  Data Shepherd: DataShepherd
   Developers Console: Google API Console|API Console
   disabled?: turn off|off
   ephemeral IP address: ephemeral external IP address
