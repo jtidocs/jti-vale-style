@@ -78,6 +78,7 @@ exceptions:
   - Portal
   - REPL
   - ROA
+  - Sicuro
   - SMS
   - SNABase
   - SNASA
