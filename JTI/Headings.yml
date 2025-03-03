@@ -38,6 +38,7 @@ exceptions:
   - FormTool
   - GitHub
   - Guide
+  - Harvard
   - Header
   - Host
   - IP-DLC
@@ -83,8 +84,10 @@ exceptions:
   - SNASAs
   - SNAServer
   - SSRS
+  - Save for Later
   - Server
   - SpreadsheetUtils
+  - Stanford
   - Studio
   - Tomcat
   - Traffic/Crim
