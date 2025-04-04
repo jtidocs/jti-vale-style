@@ -8,6 +8,7 @@ exceptions:
   - 2FA
   - AI
   - AI-assisted
+  - Amazon
   - API
   - Authy
   - Axon
@@ -18,6 +19,7 @@ exceptions:
   - Client
   - Code
   - Community
+  - Corretto
   - Cosmos
   - Cygwin
   - DMS
@@ -89,6 +91,8 @@ exceptions:
   - SNASA
   - SNASAs
   - SNAServer
+  - SQL
+  - "SQL Server"
   - SSRS
   - Sapphire
   - Save for Later
