@@ -8,6 +8,7 @@ exceptions:
   - AI
   - AI-assisted
   - API
+  - Authy
   - Axon
   - Azure
   - CLI
@@ -76,8 +77,10 @@ exceptions:
   - OrgUnit
   - PNL
   - Portal
+  - QA
   - Race-blind Charges
   - Race-blind Charging
+  - RC
   - REPL
   - ROA
   - Sapphire
