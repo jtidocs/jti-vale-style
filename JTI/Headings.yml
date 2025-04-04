@@ -5,6 +5,7 @@ level: warning
 scope: heading
 match: $sentence
 exceptions:
+  - 2FA
   - AI
   - AI-assisted
   - API
@@ -19,8 +20,8 @@ exceptions:
   - Community
   - Cosmos
   - Cygwin
-  - DataShepherd
   - DMS
+  - DataShepherd
   - DocViewer
   - Docker
   - Document
@@ -78,21 +79,21 @@ exceptions:
   - PNL
   - Portal
   - QA
-  - Race-blind Charges
-  - Race-blind Charging
   - RC
   - REPL
   - ROA
-  - Sapphire
-  - Sicuro
+  - Race-blind Charges
+  - Race-blind Charging
   - SMS
   - SNABase
   - SNASA
   - SNASAs
   - SNAServer
   - SSRS
+  - Sapphire
   - Save for Later
   - Server
+  - Sicuro
   - SpreadsheetUtils
   - Stanford
   - Studio
