@@ -3,3 +3,4 @@ extends: existence
 level: error
 tokens:
   - FIXME
+  - NaN
