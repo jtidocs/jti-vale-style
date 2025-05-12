@@ -1,4 +1,4 @@
-193
+202
 AKA
 API/S
 AnyConnect
@@ -67,6 +67,8 @@ SNASA/S
 SNAServer
 Sharebook/S
 Sicuro
+SLA/S
+SSD/S
 Sonoma
 Soundex
 Strikethrough
@@ -112,6 +114,8 @@ codefendant/S
 combobox/S
 coplaintiff/S
 customize/SDGB
+cyber
+cybersecurity
 datagram/S
 dataset/S
 delete/B
@@ -133,6 +137,7 @@ eSeries
 eSupervision
 enum/S
 executable/S
+failover
 fill/SGB
 fillpoint/S
 financial/S
@@ -151,6 +156,7 @@ mouseover
 multiselect
 noncase
 null/SDB
+onboard/SG
 orgunit/S
 passcode
 payable/S
