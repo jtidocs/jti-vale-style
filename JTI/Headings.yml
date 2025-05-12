@@ -12,11 +12,13 @@ exceptions:
   - Apache
   - API
   - Authy
+  - AWS
   - Axon
   - Azure
   - CLI
   - CSS
   - California
+  - CJIS
   - Client
   - Code
   - Community
@@ -28,11 +30,13 @@ exceptions:
   - DocViewer
   - Docker
   - Document
+  - "Document Automation"
   - Download
   - Drupal
   - EFM
   - EFSP
   - Edition
+  - "Elastic Search"
   - Emmet
   - Evidence
   - Evidence.com
