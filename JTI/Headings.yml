@@ -91,11 +91,13 @@ exceptions:
   - ROA
   - Race-blind Charges
   - Race-blind Charging
+  - S3
   - SMS
   - SNABase
   - SNASA
   - SNASAs
   - SNAServer
+  - "SOC 2"
   - SQL
   - "SQL Server"
   - SSRS
