@@ -7,7 +7,7 @@ action:
   name: replace
 swap:
   ad hoc:                   informally
-  ergo:                     therefore
+  \bergo\b:                 therefore
   etc\.:                    and more
   \bvia\b:                  using
   vice versa:               the other way around
