@@ -109,7 +109,7 @@ exceptions:
   - SpreadsheetUtils
   - Stanford
   - Studio
-  - SubDocuments
+  - SubDocument
   - Tomcat
   - Traffic/Crim
   - TypeScript
