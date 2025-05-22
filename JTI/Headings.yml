@@ -58,6 +58,7 @@ exceptions:
   - JCMS
   - JDA
   - JTI
+  - "JTI Notification Service"
   - Java
   - JudgeView
   - Kubernetes
