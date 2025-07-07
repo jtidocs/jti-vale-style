@@ -1,0 +1,19 @@
+extends: existence
+message: "Don't use language (such as '%s') that can cause dissonance for people with disability."
+link: https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/accessibility-terms
+level: error
+ignorecase: true
+tokens:
+  - cripple
+  - crippled
+  - disable
+  - disabled
+  - enable
+  - enabled
+  - handicap
+  - handicapped
+  - mute
+  - sight-impaired
+  - stricken with
+  - suffers from
+  - vision-impaired
