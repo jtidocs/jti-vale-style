@@ -4,5 +4,6 @@ dicpath: JTI/dictionaries
 dictionaries:
   - en_US-large
   - antora
+  - legal
   - JTI
 level: error
