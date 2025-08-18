@@ -62,6 +62,7 @@ exceptions:
   - Java
   - JudgeView
   - Kubernetes
+  - LDAP
   - LTS
   - Linux
   - List
