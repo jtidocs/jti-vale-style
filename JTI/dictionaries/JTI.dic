@@ -1,4 +1,4 @@
-220
+222
 AKA
 API/S
 Addon
@@ -107,6 +107,7 @@ ZeroTrust
 addon
 admin/S
 analytic/S
+anonymize/SD
 autocomplete/SN
 autofill/SG
 autoload/G
@@ -214,6 +215,7 @@ unescape/D
 unreview/D
 unstore/SD
 uptime/S
+userid/S
 victimization/S
 virtualize/SD
 voucher/DS
