@@ -1,4 +1,4 @@
-225
+230
 ACR/S
 AKA
 API/S
@@ -9,6 +9,7 @@ Aspose
 Async
 Authnet
 Authy
+Axe
 Barcode/S
 CMS/S
 Changelist/S
@@ -23,6 +24,7 @@ DataShepherd
 Datagram/S
 Datasource
 Def/S
+Dev
 Drilldown
 Dropdown
 EFM
@@ -159,6 +161,7 @@ fullscreen/D
 grayscale
 hardcode/SDG
 hostname/S
+hoverable
 iText
 inclusivity
 index/UD
@@ -168,6 +171,7 @@ joinder/S
 keepalive/S
 lookup/S
 mouseover
+multipoint
 multiselect
 noncase
 null/SDB
@@ -181,6 +185,7 @@ persister
 prefill/SD
 preprint/SD
 presigned
+programmatically
 prosecutorial
 recoverability
 redact/USD
