@@ -8,17 +8,17 @@ exceptions:
   - 2FA
   - AI
   - AI-assisted
+  - API
+  - AWS
   - Amazon
   - Apache
-  - API
   - Authy
-  - AWS
   - Axon
   - Azure
+  - CJIS
   - CLI
   - CSS
   - California
-  - CJIS
   - Client
   - Code
   - Community
@@ -35,6 +35,7 @@ exceptions:
   - Drupal
   - EFM
   - EFSP
+  - EN
   - Edition
   - Elasticsearch
   - Emmet
@@ -47,10 +48,10 @@ exceptions:
   - FormTool
   - GitHub
   - Guide
+  - HTML
   - Harvard
   - Header
   - Host
-  - HTML
   - IP-DLC
   - Integration
   - InterfaceTracking
@@ -124,6 +125,7 @@ exceptions:
   - VS
   - View
   - Visual
+  - WCAG
   - Windows
   - XREF
   - ZIP
