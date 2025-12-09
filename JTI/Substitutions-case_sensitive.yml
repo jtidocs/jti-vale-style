@@ -4,3 +4,4 @@ level: error
 ignorecase: false
 swap:
   "System Property": system property
+  '(?:[^-])github': GitHub
