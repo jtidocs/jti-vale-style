@@ -9,14 +9,18 @@ exceptions:
   - AI
   - AI-assisted
   - API
+  - APPC
   - AWS
   - Amazon
   - Apache
   - Authy
   - Axon
   - Azure
+  - CDI
+  - CDR
   - CJIS
   - CLI
+  - CPIC
   - CSS
   - California
   - Client
@@ -26,6 +30,7 @@ exceptions:
   - Cosmos
   - Cygwin
   - DMS
+  - DMV
   - DataShepherd
   - DocViewer
   - Docker
@@ -48,6 +53,7 @@ exceptions:
   - FormTool
   - GitHub
   - Guide
+  - HIS
   - HTML
   - Harvard
   - Header
@@ -98,6 +104,8 @@ exceptions:
   - Race-blind Charging
   - S3
   - SMS
+  - SNA
+  - SNABASE
   - SNABase
   - SNASA
   - SNASAs
@@ -109,6 +117,7 @@ exceptions:
   - Sapphire
   - Save for Later
   - Server
+  - Service
   - Sicuro
   - SpreadsheetUtils
   - Stanford
@@ -123,6 +132,7 @@ exceptions:
   - UX
   - User
   - VOCA
+  - VRN
   - VS
   - View
   - Visual
@@ -145,5 +155,6 @@ exceptions:
   - eProsecutor
   - eSeries
   - eSupervision
+  - eToll
   - gRPC
   - macOS
