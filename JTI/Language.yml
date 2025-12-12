@@ -9,6 +9,7 @@ swap:
   ad hoc:                   informally
   \bergo\b:                 therefore
   etc\.:                    and more
+  'navigate(?: to)':        go to
   \bvia\b:                  using
   vice versa:               the other way around
   (?:vis a vis|vis a vie):  such as
