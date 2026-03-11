@@ -1,0 +1,11 @@
+extends: substitution
+message: Should be '%s', not '%s', but use '{product}' instead.
+level: error
+ignorecase: false
+swap:
+  e-attorney|e-Attorney|eattorney|Eattorney: eAttorney
+  e-court|e-Court|ecourt|Ecourt: eCourt
+  e-defender|e-Defender|edefender|Edefender: eDefender
+  e-prosecutor|e-Prosecutor|eprosecutor|Eprosecutor: eProsecutor
+  e-supervision|e-Supervision|esupervision|Esupervision: eSupervision
+  e-series|e-Series|eseries|Eseries: eSeries
