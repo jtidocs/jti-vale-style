@@ -101,6 +101,7 @@ exceptions:
   - RC
   - REPL
   - ROA
+  - Race-blind
   - Race-blind Charges
   - Race-blind Charging
   - S3
