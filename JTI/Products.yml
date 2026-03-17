@@ -3,9 +3,9 @@ message: Should be '%s', not '%s', but use '{product}' instead.
 level: error
 ignorecase: false
 swap:
-  e-attorneys?|e-Attorneys?|eattorneys?|Eattorneys?: eAttorney
-  e-courts?|e-Courts?|ecourts?|Ecourts?: eCourt
-  e-defenders?|e-Defenders?|edefenders?|Edefenders?: eDefender
-  e-prosecutors?|e-Prosecutors?|eprosecutors?|Eprosecutors?: eProsecutor
-  e-supervisions?|e-Supervisions?|esupervisions?|Esupervisions?: eSupervision
-  e-series|e-Series|eseries|Eseries: eSeries
+  '[^`/](e-attorneys?|e-Attorneys?|eattorneys?|Eattorneys?)[^`]': eAttorney
+  '[^`/](e-courts?|e-Courts?|ecourts?|Ecourts?)[^`]': eCourt
+  '[^`/](e-defenders?|e-Defenders?|edefenders?|Edefenders?)[^`]': eDefender
+  '[^`/](e-prosecutors?|e-Prosecutors?|eprosecutors?|Eprosecutors?)[^`]': eProsecutor
+  '[^`/](e-supervisions?|e-Supervisions?|esupervisions?|Esupervisions?)[^`]': eSupervision
+  '[^`/](e-series|e-Series|eseries|Eseries)[^`]': eSeries
