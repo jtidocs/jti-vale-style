@@ -9,3 +9,5 @@ swap:
   '[^`/](e-prosecutors?|e-Prosecutors?|eprosecutors?|Eprosecutors?)[^`]': eProsecutor
   '[^`/](e-supervisions?|e-Supervisions?|esupervisions?|Esupervisions?)[^`]': eSupervision
   '[^`/](e-series|e-Series|eseries|Eseries)[^`]': eSeries
+  '[^`/](e-payit|e-PayIt|ePayIt|ePayit|EPayIt|ePay-It)[^`]': ePay-it
+  '[^`/](e-fileit|e-FileIt|eFileIt|eFileit|EFileIt|eFile-It)[^`]': eFile-it
