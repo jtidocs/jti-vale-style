@@ -55,6 +55,7 @@ exceptions:
   - FormTool
   - GL
   - GitHub
+  - Groovy
   - Guide
   - HIS
   - HTML
@@ -99,6 +100,8 @@ exceptions:
   - OrgUnit
   - PNL
   - Portal
+  - POST
+  - PUT
   - QA
   - RC
   - REPL
