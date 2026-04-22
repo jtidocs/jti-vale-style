@@ -53,6 +53,7 @@ exceptions:
   - "Expand If"
   - Folder
   - FormTool
+  - GET
   - GL
   - GitHub
   - Groovy
