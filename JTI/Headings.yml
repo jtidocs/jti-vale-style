@@ -16,10 +16,14 @@ exceptions:
   - Authy
   - Axon
   - Azure
+  - BLOB
+  - BLOBs
   - CDI
   - CDR
   - CJIS
   - CLI
+  - CLOB
+  - CLOBs
   - CPIC
   - CSS
   - California
