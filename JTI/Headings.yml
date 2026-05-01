@@ -33,6 +33,7 @@ exceptions:
   - Corretto
   - Cosmos
   - Cygwin
+  - DELETE
   - DMS
   - DMV
   - DataShepherd
