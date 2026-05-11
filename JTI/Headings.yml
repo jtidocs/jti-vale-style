@@ -72,6 +72,7 @@ exceptions:
   - Integration
   - InterfaceTracking
   - InterfaceTrackingDetail
+  - "Internal DMS"
   - JBSIS
   - JCMS
   - JDA
@@ -137,6 +138,7 @@ exceptions:
   - Stanford
   - Studio
   - SubDocuments
+  - SustainDms
   - Tomcat
   - Traffic/Crim
   - TypeScript
