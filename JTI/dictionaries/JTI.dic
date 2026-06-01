@@ -1,4 +1,4 @@
-237
+238
 ACR/S
 AKA
 API/S
@@ -139,6 +139,7 @@ dataset/S
 deduplicate/SGD
 delete/B
 despeckle/SD
+deserialization
 dialog/S
 drilldown/S
 dropdown/S
