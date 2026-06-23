@@ -1,4 +1,4 @@
-238
+239
 ACR/S
 AKA
 API/S
@@ -138,8 +138,8 @@ datagram/S
 dataset/S
 deduplicate/SGD
 delete/B
-despeckle/SD
 deserialization
+despeckle/SD
 dialog/S
 drilldown/S
 dropdown/S
@@ -197,6 +197,7 @@ prosecutorial
 recoverability
 redact/USD
 redaction/S
+reimport/D
 resize/BDS
 restitution/S
 revalidate/DS
