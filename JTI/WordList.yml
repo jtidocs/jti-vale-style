@@ -22,7 +22,6 @@ swap:
   'un(?:check|select)': clear
   above: preceding
   account name: username
-  action bar: app bar
   '(?<!(&|;) )admin': administrator
   Ajax: AJAX
   a\.k\.a|aka: or|also known as
