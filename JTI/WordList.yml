@@ -6,71 +6,66 @@ ignorecase: false
 action:
   name: replace
 swap:
-  '(?:API Console|dev|developer) key': API key
-  '(?:cell ?phone|smart ?phone)': phone|mobile phone
-  '(?:dev|developer|APIs) console': API console
-  '(?:e-mail|E-mail)': email
-  '(?:file ?path|path ?name)': path
-  '(?:kill|terminate|abort)': stop|exit|cancel|end
-  '(?:OAuth ?2[^.]|Oauth)': OAuth 2.0
-  '(?:ok|Okay)': OK|okay
-  '(?:WiFi|wifi)': Wi-Fi
-  '[\.]+apk': APK
-  '3\-D': 3D
+  Android device: Android-powered device
+  API explorer: APIs Explorer
+  (?<![Cc]ivil|[Cc]riminal|[Ii]nterlocutory|[Jj]uvenile|[Oo]riginating|[Yy]outh) application: app
+  CLI: command-line tool
+  Container Engine: Kubernetes Engine
+  Data Shepherd: DataShepherd
+  Developers Console: Google API Console|API Console
   'Google (?:I\-O|IO)': Google I/O
-  'tap (?:&|and) hold': touch and hold
-  'un(?:check|select)': clear
+  Google account: Google Account
+  Google accounts: Google Accounts
+  Googling: search with Google
+  HTTPs: HTTPS
+  # Longest form first: with the shortest alternative leading, 'OAuth 2' matched
+  # only 'OAuth', so applying the suggestion produced 'OAuth 2.0 2'. The rule is
+  # already case-insensitive, so the inline (?i) is redundant. See issue #41.
+  '\bOauth2\.0\b|\bOAuth ?2\b(?!\.0)|\bOauth\b(?! ?2)': OAuth 2.0
+  SHA1: SHA-1|HAS-SHA1
+  a\.k\.a|aka: or|also known as
   above: preceding
   account name: username
   '(?<!(&|;) )admin': administrator
-  Ajax: AJAX
-  a\.k\.a|aka: or|also known as
-  Android device: Android-powered device
   android: Android
-  API explorer: APIs Explorer
-  (?<![Cc]ivil|[Cc]riminal|[Ii]nterlocutory|[Jj]uvenile|[Oo]riginating|[Yy]outh) application: app
+  application: app
   approx\.: approximately
   authN: authentication
   authZ: authorization
   autoupdate: automatically update
   cellular data: mobile data
   cellular network: mobile network
+  '(?:cell ?phone|smart ?phone)': phone|mobile phone
   chapter: documents|pages|sections
   check box: checkbox
-  CLI: command-line tool
   click on: click|click in
-  Container Engine: Kubernetes Engine
   curated roles: predefined roles
   data are: data is
   data shepherd: DataShepherd
-  Data Shepherd: DataShepherd
-  Developers Console: Google API Console|API Console
   disabled?: turn off|off
+  '(?:e-mail|E-mail)': email
   ephemeral IP address: ephemeral external IP address
   fewer data: less data
   file name: filename
+  '(?:file ?path|path ?name)': path
   functionality: capability|feature
-  Google account: Google Account
-  Google accounts: Google Accounts
-  Googling: search with Google
   grayed-out: unavailable
-  HTTPs: HTTPS
   in order to: to
+  ingest: import|load
   k8s: Kubernetes
+  '(?:kill|terminate|abort)': stop|exit|cancel|end
   long press: touch & hold
-  network IP address: internal IP address
   omnibox: address bar
   open-source: open source
   overview screen: recents screen
   regex: regular expression
-  SHA1: SHA-1|HAS-SHA1
   sign into: sign in to
-  sign-?on: single sign-on
+  '(?<!single )sign-?on': single sign-on
   stylesheet: style sheet
   synch: sync
   tablename: table name
   tablet: device
-  touch: tap
+  'touch(?! ?(?:&|and) hold)': tap
+  'un(?:check|select)': clear
   url:  URL
   vs\.: versus
-  World Wide Web: web
