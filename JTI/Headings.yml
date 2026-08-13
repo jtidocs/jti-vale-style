@@ -99,6 +99,7 @@ exceptions:
   - "My Note"
   - MySQL
   - MySQL
+  - NFC
   - NIEM
   - NSF
   - Notice
@@ -112,6 +113,7 @@ exceptions:
   - POST
   - PUT
   - QA
+  - QR
   - RC
   - REPL
   - ROA
