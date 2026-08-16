@@ -13,6 +13,7 @@ exceptions:
   - AWS
   - Amazon
   - Apache
+  - Auth0
   - Authy
   - Axon
   - Azure
@@ -42,6 +43,7 @@ exceptions:
   - Docker
   - Document
   - "Document Automation"
+  - DOCX
   - Download
   - Drupal
   - EFM
@@ -106,6 +108,8 @@ exceptions:
   - Notice
   - OAuth
   - OCR
+  - Office Add-in
+  - Outlook Add-in
   - Online
   - OpenWebStart
   - OrgUnit
@@ -121,6 +125,7 @@ exceptions:
   - Race-blind
   - Race-blind Charges
   - Race-blind Charging
+  - RTF
   - S3
   - Screen Builder
   - SMS
