@@ -5,4 +5,4 @@ nonword: true
 level: warning
 scope: sentence
 tokens:
-  - ':\s(?!Criminal|CSV|JDA|Microsoft|PDF|Portable|Race|Rich|RTF|SASL|XML)[A-Z]\w+'
+  - ':\s(?!Bates|Criminal|CSV|JDA|Microsoft|PDF|Portable|Race|Rich|RTF|SASL|XML)[A-Z]\w+'
