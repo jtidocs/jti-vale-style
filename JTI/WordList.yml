@@ -70,3 +70,7 @@ swap:
   'un(?:check|select)': clear
   url:  URL
   vs\.: versus
+  'work group': workgroup
+  'work Group': workgroup
+  'Work Group': Workgroup
+  'Work group': Workgroup
