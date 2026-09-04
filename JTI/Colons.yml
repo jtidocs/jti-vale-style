@@ -21,5 +21,6 @@ exceptions:
   - Rich
   - RTF
   - SASL
+  - Title
   - Windows
   - XML
