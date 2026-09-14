@@ -7,6 +7,7 @@ scope: sentence
 tokens:
   - ':\s[A-Z]\w+'
 exceptions:
+  - Axon
   - Bates
   - Criminal
   - CSV
