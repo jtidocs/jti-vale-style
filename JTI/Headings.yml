@@ -42,7 +42,8 @@ exceptions:
   - DocViewer
   - Docker
   - Document
-  - "Document Automation"
+  - Document Automation
+  - Document Intelligence
   - DOCX
   - Download
   - Drupal
@@ -52,14 +53,14 @@ exceptions:
   - Edition
   - Elasticsearch
   - Emmet
-  - "eSeries Configuration Guide"
-  - "eSeries Troubleshooting Guide"
+  - eSeries Configuration Guide
+  - eSeries Troubleshooting Guide
   - Evidence
   - Evidence.com
   - Excel
   - Exchange
-  - "Expand If"
-  - "File Manager"
+  - Expand If
+  - File Manager
   - Folder
   - FormTool
   - GET
@@ -76,12 +77,12 @@ exceptions:
   - Integration
   - InterfaceTracking
   - InterfaceTrackingDetail
-  - "Internal DMS"
+  - Internal DMS
   - JBSIS
   - JCMS
   - JDA
   - JTI
-  - "JTI Notification Service"
+  - JTI Notification Service
   - Java
   - JudgeView
   - Kubernetes
@@ -98,7 +99,7 @@ exceptions:
   - Microsoft
   - Moneris
   - MongoDB
-  - "My Note"
+  - My Note
   - MySQL
   - MySQL
   - New User Experience
@@ -135,9 +136,9 @@ exceptions:
   - SNASA
   - SNASAs
   - SNAServer
-  - "SOC 2"
+  - SOC 2
   - SQL
-  - "SQL Server"
+  - SQL Server
   - SSRS
   - Sapphire
   - Save for Later
