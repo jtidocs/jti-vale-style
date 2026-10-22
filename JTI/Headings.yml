@@ -25,6 +25,7 @@ exceptions:
   - CLI
   - CLOB
   - CLOBs
+  - CMS
   - CPIC
   - CRUD
   - CSS
