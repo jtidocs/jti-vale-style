@@ -6,6 +6,7 @@ scope: heading
 match: $sentence
 exceptions:
   - 2FA
+  - ACL
   - AI
   - AI-assisted
   - API
@@ -130,6 +131,7 @@ exceptions:
   - RTF
   - S3
   - Screen Builder
+  - Security
   - SMS
   - SNA
   - SNABASE
