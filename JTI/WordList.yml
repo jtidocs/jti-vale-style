@@ -61,7 +61,7 @@ swap:
   overview screen: recents screen
   regex: regular expression
   sign into: sign in to
-  '(?<!single )sign-?on': single sign-on
+  '(?<![Ss]ingle )sign-?on': single sign-on
   stylesheet: style sheet
   'Sub-Case': 'ui:entity[SubCase] or ui:feature[Sub Case]'
   synch: sync
