@@ -55,6 +55,7 @@ exceptions:
   - Edition
   - Elasticsearch
   - Emmet
+  - Entra
   - eSeries Configuration Guide
   - eSeries Troubleshooting Guide
   - Evidence
@@ -68,6 +69,7 @@ exceptions:
   - GET
   - GL
   - GitHub
+  - Google
   - Groovy
   - Guide
   - HIS
@@ -112,10 +114,12 @@ exceptions:
   - OAuth
   - OCR
   - Office Add-in
+  - Okta
   - Outlook Add-in
   - Online
   - OpenWebStart
   - OrgUnit
+  - PKCE
   - PNL
   - Portal
   - POST
@@ -149,6 +153,7 @@ exceptions:
   - Service
   - Sicuro
   - SpreadsheetUtils
+  - SSO
   - Stanford
   - Studio
   - SubDocuments
@@ -157,6 +162,7 @@ exceptions:
   - Traffic/Crim
   - TypeScript
   - UI
+  - URI
   - URL
   - URLs
   - UX
