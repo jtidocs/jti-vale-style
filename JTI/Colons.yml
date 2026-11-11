@@ -11,6 +11,8 @@ exceptions:
   - Bates
   - Criminal
   - CSV
+  - Entra
+  - Google
   - ID
   - JDA
   - JTI
@@ -18,6 +20,7 @@ exceptions:
   - Microsoft
   - MIME
   - Mr
+  - Okta
   - PDF
   - Portable
   - Race
